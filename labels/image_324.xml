@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image_324.jpg</filename>
+	<path>C:\Users\HP\OneDrive\Desktop\images\image_324.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>330</width>
+		<height>220</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Owl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>47</ymin>
+			<xmax>255</xmax>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+</annotation>

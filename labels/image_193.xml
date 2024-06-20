@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image_193.jpg</filename>
+	<path>C:\Users\HP\OneDrive\Desktop\images\image_193.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>328</width>
+		<height>220</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Owl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>217</ymin>
+			<xmax>225</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>image_36.jpg</filename>
+	<path>C:\Users\HP\OneDrive\Desktop\ML\Images\image_36.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>188</width>
+		<height>219</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Owl</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>26</ymin>
+			<xmax>243</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>
